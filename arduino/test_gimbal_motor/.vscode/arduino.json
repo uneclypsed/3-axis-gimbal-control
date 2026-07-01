@@ -1,0 +1,8 @@
+{
+    "port": "COM3",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "programmer": "atmel_ice",
+    "sketch": "test_motor.ino",
+    "output": "..\\build"
+}
